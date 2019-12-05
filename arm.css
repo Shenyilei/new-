@@ -1,0 +1,72 @@
+.p{
+  position: absolute;
+ font-family: Verdana;
+  font-weight: 400;
+  top:100px;
+  left:150px;
+  font-size: 40px;
+  height:100px;
+  width:550px;
+}
+.i{
+  position: absolute;
+  font-family: Verdana;
+  font-weight: 550;
+  top:200px;
+  left:150px;
+  font-size: 60px;
+  width:550px;
+  line-height:50px;
+  white-space:nowrap;   
+}
+.l{
+  position: absolute;
+  font-family: Verdana;
+  font-weight: 550;
+  top:300px;
+  left:150px;
+  line-height:100px;
+  font-size:25px;
+  width:450px;
+  white-space:nowrap;  
+}
+.learn{
+  position: absolute;
+  font-family: Verdana;
+  font-weight: 350;
+}
+.black{
+  position: absolute;
+  font-family: Verdana;
+  font-weight: 500;
+  top:100px;
+  left:150px;
+  font-size: 55px;
+  width:550px;
+  line-height:50px;
+  white-space:nowrap;   
+}
+.products{
+  position: absolute;
+  
+}
+.slutionso{
+  position: absolute;
+  
+}
+.whyarm{
+  position: absolute;
+  
+}
+.su{
+  position: absolute;
+  
+}
+.r{
+  position: absolute;
+  
+}
+.c{
+  position: absolute;
+  
+}
