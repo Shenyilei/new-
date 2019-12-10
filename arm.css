@@ -2,7 +2,7 @@
   position: absolute;
  font-family: Verdana;
   font-weight: 400;
-  top:100px;
+  top:150px;
   left:150px;
   font-size: 40px;
   height:100px;
@@ -12,7 +12,7 @@
   position: absolute;
   font-family: Verdana;
   font-weight: 550;
-  top:200px;
+  top:250px;
   left:150px;
   font-size: 60px;
   width:550px;
@@ -23,19 +23,30 @@
   position: absolute;
   font-family: Verdana;
   font-weight: 550;
-  top:300px;
+  top:350px;
   left:150px;
   line-height:100px;
-  font-size:25px;
+  font-size:5px;
   width:450px;
   white-space:nowrap;  
+  
 }
 .learn{
-  position: absolute;
+  position: relative;
   font-family: Verdana;
   font-weight: 350;
+  font-size: 34px;
+  background-color: rgb(255,199,0);
+  color:black;
+  border:1px solid rgb(255,199,0);
+  border-radius: 20px;
+  width:200px;
+  height:45px;
+  top:10px;
+  
+
 }
-.bl{
+.line{
   position: absolute;
   font-family: 50px;
   font-weight: 450;
@@ -46,9 +57,9 @@
   line-height:50px;
   white-space:nowrap;   
   background-size: auto;
-  background-image: url(../new-/photos/car.jpg);
   background-position: top left;
   background-repeat: no-repeat;
+  background-image: url(../new-/photos/car.jpg);
   
 }
 .armlogo{
@@ -62,35 +73,49 @@
   line-height:50px;
   white-space:nowrap;   
 }
+.img{
+  position: absolute;
+  font-family: 50px;
+  font-weight: 450;
+  white-space:nowrap; 
+  letter-spacing:20px ;
+}
 .underline{
   position: absolute;
-
 }
 
 .products{
   position: absolute;
-
-  
+  line-height:150px;
+  left:150px;
+  font-size: 10px;
 }
 .slutionso{
   position: absolute;
-
+  line-height:150px;
+  left:150px;
+  font-size: 10px;
 }
 .whyarm{
   position: absolute;
-
+  line-height:150px;
+  left:150px;
+  font-size: 10px;
 }
 .su{
   position: absolute;
-
+  left:150px;
+  font-size: 10px;
 }
 .r{
   position: absolute;
   line-height:100px;
-
+  left:150px;
+  font-size: 10px;
   
 }
 .c{
   position: absolute;
   line-height:150px;
+  font-size: 10px;
 }
